@@ -1,1 +1,13 @@
 {{lookup-form zipLookup="zipLookup"}}
+
+<br>
+<hr>
+<h3>Bills Currently Awaiting the President's Signature</h3>
+
+{{#each model as |results|}}
+  <ul>
+    <li>{{results.bill_id}}</li>
+      <ul><li>{{results.official_title}}</li></ul>
+  </ul>
+{{/each}}
+{{log model}}
