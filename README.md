@@ -1,7 +1,6 @@
 # Political-info
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a web application developed using Sunlight Foundation's Congress API. It provides users with a variety of information about legislators, committees, recent and upcoming bills in the user's area.
 
 ## Prerequisites
 
