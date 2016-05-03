@@ -18,6 +18,10 @@ You will need the following things properly installed on your computer.
 * change into the new directory
 * `npm install`
 * `bower install`
+* Retrieve personal access token from https://sunlightlabs.github.io/congress/
+* Make a .env file in top level of project
+* Store personal access token as a variable called apiKey
+* Add .env file to .gitignore 
 
 ## Running / Development
 
