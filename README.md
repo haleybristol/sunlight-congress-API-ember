@@ -1,6 +1,6 @@
 # Political-info
 
-This is a web application developed using Sunlight Foundation's Congress API. It provides users with a variety of information about legislators, committees, recent and upcoming bills in the user's area.
+This is a web application developed using Sunlight Foundation's Congress API. It provides users with a way to search for a information about legislators, committees, recent and upcoming bills by zip code. 
 
 ## Prerequisites
 
